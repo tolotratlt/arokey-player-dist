@@ -4,9 +4,7 @@ This folder is used to publish the **binary distribution** of Arokey Player (no 
 
 ## Download
 
-- Latest release link: `TO_BE_UPDATED`
-
-> Replace `TO_BE_UPDATED` with the final GitHub release URL once it is available.
+- Latest release link: `https://github.com/tolotratlt/arokey-player-dist/releases/download/v1.0.0/arokey-player-v1.0.0.zip`
 
 ## Package Content
 
