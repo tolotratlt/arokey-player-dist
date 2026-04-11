@@ -4,7 +4,7 @@ This folder is used to publish the **binary distribution** of Arokey Player (no 
 
 ## Download
 
-- Latest release link: `https://github.com/tolotratlt/arokey-player-dist/releases/download/v1.0.0/arokey-player-v1.0.0.zip`
+- Latest release link: [Download Arokey Player v1.0.0](https://github.com/tolotratlt/arokey-player-dist/releases/download/v1.0.0/arokey-player-v1.0.0.zip)
 
 ## Package Content
 
@@ -37,3 +37,5 @@ Compare the output with `checksum-sha256.txt`.
 ## Support
 
 For updates and official announcements, use the official website links above.
+
+
