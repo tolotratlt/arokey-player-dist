@@ -5,8 +5,10 @@ This folder is used to publish the **binary distribution** of Arokey Player (no 
 ## Download
 
 - Latest release links: 
-[Download Arokey Player Windows v1.1.0](https://github.com/tolotratlt/arokey-player-dist/releases/download/v1.1.0/arokey-player-windows-v1.1.0.zip)
-[Download Arokey Player Android v1.1.0](https://github.com/tolotratlt/arokey-player-dist/releases/download/v1.1.0/arokey-player-android-v1.1.0.apk)
+
+[Download Arokey Player Windows v1.2.0](https://github.com/tolotratlt/arokey-player-dist/releases/download/v1.2.0/arokey-player-windows-v1.2.0.zip)
+
+[Download Arokey Player Android v1.2.0](https://github.com/tolotratlt/arokey-player-dist/releases/download/v1.2.0/arokey-player-android-v1.2.0.apk)
 
 ## Package Content
 
